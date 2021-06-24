@@ -1,5 +1,9 @@
 # Prerequisites
-Install all required packages
+1. Install mosquitto broker
+```bash
+sudo apt-get install mosquitto -y
+```
+2. Install all required packages
 ```bash
 pip install -r requirements.txt 
 ```
