@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```bash
 python3 problem1.py
 ```
-2. Hit the endpoint
+2. Hit the endpoint using method GET
 ```bash
 http://localhost:7676/v1/salary_conversion
 ```
@@ -25,7 +25,7 @@ http://localhost:7676/v1/salary_conversion
 ```bash
 python3 problem2.py
 ```
-2. Hit the endpoint
+2. Hit the endpoint using method GET
 ```bash
 http://localhost:7676/v1/sensor_aggregation
 ```
