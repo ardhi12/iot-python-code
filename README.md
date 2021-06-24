@@ -5,7 +5,7 @@ sudo apt-get install mosquitto -y
 ```
 2. Install all required packages
 ```bash
-pip install -r requirements.txt 
+pip3 install -r requirements.txt 
 ```
 
 # How to use
